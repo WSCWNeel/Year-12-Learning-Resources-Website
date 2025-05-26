@@ -1,2 +1,2 @@
 <h1> Year 12 Learning Resources Website </h1>
-<h6>file:///C:/Users/nevpi/OneDrive/Documents/GitHub/Year-12-Learning-Resources-Website/home_page.html</h6>
+<h6>[file:///C:/Users/nevpi/OneDrive/Documents/GitHub/Year-12-Learning-Resources-Website/home_page.html](https://wscwneel.github.io/Year-12-Learning-Resources-Website/)</h6>
