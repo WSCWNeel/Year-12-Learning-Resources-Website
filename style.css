@@ -1,5 +1,9 @@
-body{
-    background-image: url("");
+  }
+  body {
+    background-color: #1f1f1f;
+  }
+  body{
+    background-image: url("Interesting\ glitchy.gif");
     background-size: cover;
     
     
@@ -8,3 +12,13 @@ body{
     padding:0;
     margin:0;
 }
+
+  .navbar a {
+    float: left;
+    padding: 12px;
+    color: #f1f1f1;
+    text-decoration: none;
+    font-size: 17px;
+    width: 25%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+    text-align: center; /* If you want the text to be centered */
+  }
