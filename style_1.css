@@ -2,7 +2,16 @@
     background-color: #1f1f1f;
   }
 
-
+  body{
+    background-image: url("Webby_Sitey.png");
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+  }
 
   .navbar a {
     float: left;
