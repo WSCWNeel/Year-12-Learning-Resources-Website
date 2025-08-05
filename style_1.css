@@ -76,3 +76,7 @@ div {
 head  {
   top: 0;
 }
+
+  .content {
+  background-image: linear-gradient(to bottom, #94b2c8, #c5d5e1); /* Gradient from orange to pink, left to right */
+  }
