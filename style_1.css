@@ -67,8 +67,3 @@ div {
 head  {
   top: 0;
 }
-
-p {
-  text-shadow: 0.5px 1.5px 2.5px #1f1f1f; /* Adds a shadow effect */
-  color: #1f1f1f
-}
