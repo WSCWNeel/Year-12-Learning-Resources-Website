@@ -81,6 +81,6 @@ head  {
   background-image: linear-gradient(to bottom, #94b2c8, #c5d5e1);
   }
 
-  button {
+  .button {
   background-color: linear-gradient(to bottom, #94b2c8, #c5d5e1);
   }
