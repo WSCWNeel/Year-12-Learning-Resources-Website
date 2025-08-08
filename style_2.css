@@ -76,3 +76,7 @@ div {
 head  {
   top: 0;
 }
+
+.button {
+margin-right: 10px;
+}
