@@ -37,6 +37,7 @@
     float: left;
     padding: 12px;
     color: #b9cefb;
+    background-color: #b9cefb;
     text-decoration: none;
     font-size: 17px;
     width: 31.5%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
