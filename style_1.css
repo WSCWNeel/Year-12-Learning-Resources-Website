@@ -23,16 +23,17 @@
     text-align: center; /* If you want the text to be centered */
   }
 
-  .cavbar a {
-    float: left;
-    padding: 12px;
-    color: #b9cefb;
-    background-color: #b9cefb;
-    text-decoration: none;
-    font-size: 17px;
-    width: 33%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
-    text-align: center; /* If you want the text to be centered */
-  }
+.cavbar {
+  background-color: #b9cefb;
+  padding: 15px;
+  border-radius: 8px;
+  text-align: center;
+  margin: 20px auto;
+  max-width: 600px;
+}
+.cavbar button {
+  margin: 0 10px;
+}
 
     .lavbar a {
     float: left;
@@ -75,10 +76,6 @@ head  {
 
   .content {
   background-image: linear-gradient(to bottom, #94b2c8, #c5d5e1);
-  }
-
-  .button {
-  background-color: linear-gradient(to bottom, #94b2c8, #c5d5e1);
   }
 
   div {
