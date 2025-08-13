@@ -33,6 +33,7 @@
 }
 .cavbar button {
   margin: 0 10px;
+  display: inline-block; /* Ensures buttons are inline */
 }
 
     .lavbar a {
