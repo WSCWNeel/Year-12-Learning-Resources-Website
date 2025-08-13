@@ -85,3 +85,8 @@ head  {
   .button {
   background-color: linear-gradient(to bottom, #94b2c8, #c5d5e1);
   }
+
+  div {
+  /* background-color: #f1f1f1; */ /* Remove or comment out this line */
+  color: ##b9cefb;
+}
