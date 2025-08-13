@@ -69,11 +69,6 @@
   color: #f1f1f1
 }
 
-div {
-  background-color: #f1f1f1;
-  color: #1f1f1f;
-}
-
 head  {
   top: 0;
 }
@@ -88,5 +83,5 @@ head  {
 
   div {
   /* background-color: #f1f1f1; */ /* Remove or comment out this line */
-  color: ##b9cefb;
+  color: #b9cefb;
 }
