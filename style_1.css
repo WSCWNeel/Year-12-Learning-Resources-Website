@@ -83,19 +83,3 @@ head  {
   /* background-color: #f1f1f1; */ /* Remove or comment out this line */
   color: #b9cefb;
 }
-
-button {
-  background-color: #5b5f97;
-  color: #ffc145;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  padding: 10px 15px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-button:hover {
-  background-color: #b9cefb;
-  color: #9FBBF9;
-  border: 2.5px solid #9FBBF9;
-}
