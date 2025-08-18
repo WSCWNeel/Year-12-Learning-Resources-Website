@@ -13,15 +13,28 @@
     margin:0;
   }
 
-  .navbar a {
-    float: left;
-    padding: 12px;
-    color: #f1f1f1;
-    text-decoration: none;
-    font-size: 17px;
-    width: 31.5%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
-    text-align: center; /* If you want the text to be centered */
-  }
+  .navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Center all items horizontally */
+  gap: 30px; /* Space between links and button */
+  padding: 12px;
+  color: #f1f1f1;
+  text-decoration: none;
+  font-size: 17px;
+  width: 31.5%;
+}
+
+.navbar a, .navbar button {
+  margin: 0;
+  padding: 0 10px;
+  text-align: center;
+  background: none;
+  border: none;
+  font-size: 17px;
+  color: #f1f1f1;
+  text-decoration: none;
+}
 
 .cavbar {
   background-color: #b9cefb;
