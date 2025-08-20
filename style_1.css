@@ -17,7 +17,7 @@
   display: flex;
   align-items: center;
   justify-content: right; /* Center all items horizontally */
-  gap: 5px; /* Space between links and button */
+  gap: 2.5px; /* Space between links and button */
   padding: 12px;
   color: #f1f1f1;
   text-decoration: none;
