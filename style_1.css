@@ -8,7 +8,7 @@ body {
   background-repeat: no-repeat;  /* Prevents tiling */
   background-position: center;   /* Centers the image */
   background-attachment: fixed;  /* Optional: keeps the image fixed on scroll */
-  height: 50vh;
+  height: 150vh;
   padding: 0;
   margin: 0;
 }
