@@ -15,8 +15,8 @@
 
   .navbar {
   display: flex;
-  align-items: center;
-  justify-content: right; /* Center all items horizontally */
+  align-items: right;
+  justify-content: center; /* Center all items horizontally */
   gap: 2.5px; /* Space between links and button */
   padding: 12px;
   color: #f1f1f1;
