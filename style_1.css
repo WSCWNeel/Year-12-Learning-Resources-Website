@@ -1,8 +1,5 @@
-  body {
-    background-color: #1f1f1f;
-  }
-
 body {
+  background-color: #1f1f1f;
   background-image: url("Beevo.png");
   background-size: 100%;        /* Ensures the image covers the whole area */
   background-repeat: no-repeat;  /* Prevents tiling */
