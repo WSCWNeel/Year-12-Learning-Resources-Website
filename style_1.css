@@ -1,7 +1,7 @@
 body {
   background-color: #1f1f1f;
   background-image: url("Beevo.png");
-  background-size: contain 100px 100px;        /* Ensures the image covers the whole area */
+  background-size: 800px 560px;        /* Ensures the image covers the whole area */
   background-repeat: no-repeat;  /* Prevents tiling */
   background-position: center;   /* Centers the image */
   background-attachment: fixed;  /* Optional: keeps the image fixed on scroll */
