@@ -1,13 +1,11 @@
-body {
-  background-color: #1f1f1f;
-}
-
+/* General styling for the entire webpage */
 body{
-  background-image: url("Interesting\ glitchy.gif");
-  background-size: cover;
-  height: 100vh;
+  background-image: url("Interesting\ glitchy.gif"); /* Path to your image */
+  background-size: cover; /* Ensure the image covers the entire background */
+  height: 100vh; /* Full viewport height */
   padding:0;
-  margin:0;
+  margin:0; /* Remove default margin */
+  background-color: #1f1f1f; /* Fallback color */
 }
 
 .navbar a {
@@ -42,7 +40,6 @@ body{
 .taskbar a {
   float: left;
   padding: 6px;
-  color: #1f1f1f;
   text-decoration: none;
   font-size: 9.5px;
   width: 32%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
@@ -65,8 +62,8 @@ h3 {
 }
 
 div {
-  background-color: #1f1f1f;
-  color: #f1f1f1;
+  background-color: #1f1f1f; /* Background color */
+  color: #f1f1f1; /* Text color */
 }
 
 head  {
@@ -74,5 +71,5 @@ head  {
 }
 
 .button {
-  margin-right: 50px;
+  margin-right: 50px; /* Space between buttons */
 }
