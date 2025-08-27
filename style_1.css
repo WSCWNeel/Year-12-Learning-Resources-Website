@@ -15,11 +15,12 @@ body {
   justify-content: center; /* Center all items horizontally */
   gap: 100px; /* Space between links and button */
   padding: 12px;
-  color: #FFD700;
   text-decoration: none;
   font-size: 17px;
-  width: 31.5%;
-  background-color: #94b2c8;
+  width: 100%;
+  background-color: #5b5f97;
+    border-radius: 5px;
+  border-bottom: #DBD4D3 solid 5px;
 }
 
 .navbar button {
@@ -28,11 +29,21 @@ body {
   text-align: center;
   background: none;
   border: none;
-  font-size: 17px;
-  color: #f1f1f1;
-  text-shadow: 0.5px 1.5px 2.5px #1f1f1f;
+  font-size: 20px;
+  color: #ffc145;
+  text-shadow: 0.5px 1.5px 2.5px #6A7B76;
   text-decoration: none;
   margin-top: 10px;
+  font-family: 'ADLaM Display',Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 5px;
+  border: #5b5f9719 solid 5px;
+}
+
+.navbar button:hover {
+   background-color: #b9cefb;
+   color:#9FBBF9;
+   border: 2.5px solid #9FBBF9;
+   border-radius: 5px;
 }
 
 .cavbar {
@@ -42,10 +53,28 @@ body {
   text-align: center;
   margin: 20px auto;
   max-width: 600px;
+  border-radius: 10px;
 }
+
 .cavbar button {
-  margin: 0 10px;
-  display: inline-block; /* Ensures buttons are inline */
+background-color: #5b5f97;
+color: #ffc145;
+font-family: 'ADLaM Display',Verdana, Geneva, Tahoma, sans-serif;
+font-size: 17.5px;
+font-weight: bold;
+text-align: center;
+text-decoration: none;
+padding: 10px 15px;
+border: 2.5px solid #5b5f97;
+border-radius: 5px;
+cursor: pointer;
+margin: 0 10px;
+display: inline-block; /* Ensures buttons are inline */
+}
+.cavbar button:hover {
+   background-color: #b9cefb;
+   color:#9FBBF9;
+   border: 2.5px solid #9FBBF9;
 }
 
     .lavbar a {
@@ -69,18 +98,18 @@ body {
   }
 
   h2 {
-  text-shadow: 0.5px 1.5px 2.5px #1f1f1f; /* Adds a shadow effect */
-  color: #f1f1f1
+  text-shadow: 0.5px 1.5px 2.5px #2B2D42; /* Adds a shadow effect */
+  color: #DBD4D3
 }
 
   h1 {
-  text-shadow: 0.5px 1.5px 2.5px #1f1f1f; /* Adds a shadow effect */
-  color: #f1f1f1
+  text-shadow: 0.5px 1.5px 2.5px #2B2D42; /* Adds a shadow effect */
+  color: #DBD4D3
 }
 
   h3 {
-  text-shadow: 0.5px 1.5px 2.5px #1f1f1f; /* Adds a shadow effect */
-  color: #f1f1f1
+  text-shadow: 0.5px 1.5px 2.5px #2B2D42; /* Adds a shadow effect */
+  color: #DBD4D3
 }
 
 head  {
@@ -90,30 +119,7 @@ head  {
 .content {
   max-width: 1250px;
   margin: auto;
-  background: linear-gradient( #94b2c8, #889e94, #828ca3, #94b2c8);
+  background: linear-gradient(#ffc1453d);
   padding: 10px;
-}
-
-  div {
-  /* background-color: #f1f1f1; */ /* Remove or comment out this line */
-  color: #b9cefb;
-}
-
-button {
-background-color: #5b5f97;
-color: #ffc145;
-font-family: 'ADLaM Display',Verdana, Geneva, Tahoma, sans-serif;
-font-size: 17.5px;
-font-weight: bold;
-text-align: center;
-text-decoration: none;
-padding: 10px 15px;
-border: 2.5px solid #5b5f97;
-border-radius: 5px;
-cursor: pointer;
-}
-button:hover {
-   background-color: #b9cefb;
-   color:#9FBBF9;
-   border: 2.5px solid #9FBBF9;
+  color : #dbd4d3;
 }
