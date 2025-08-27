@@ -1,55 +1,64 @@
 <!DOCTYPE html>
 <html lang="en">
-  <script>
-    function About_Us() {
-      window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/about_us.html");
-    }
-    function Year_12_Resource_Website() {
-      window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/index.html");
-    }
-    function How_to_use_the_Website() {
-      window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/how_to_use_the_website.html");
-    }
-    function myMaths() {
-      window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/advanced_maths.html");
-    }
-    function myPhysics() {
-      window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/physics.html");
-    }
-    function myEnglish() {
-      window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/english.html");
-    }
-  </script>
+<script>
+  function About_Us() {
+    window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/about_us.html");
+  }
+  function Year_12_Resource_Website() {
+    window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/index.html");
+  }
+  function How_to_use_the_Website() {
+    window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/how_to_use_the_website.html");
+  }
+  function myMaths() {
+    window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/advanced_maths.html");
+  }
+  function myPhysics() {
+    window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/physics.html");
+  }
+  function myEnglish() {
+    window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/english.html");
+  }
+</script>
 
+<script>
+  window.addEventListener('load', function() {
+  const preloader = document.getElementById('preloader');
+  if (preloader) {
+    preloader.style.display = 'none'; // Hide the preloader
+  }
+  });
+</script>
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Year 12 Student Resource Sheet</title>
-     <link rel="stylesheet" href="style_1.css" />
-     <link href="https://fonts.googleapis.com/css2?family=ADLaM+Display&display=swap" rel="stylesheet">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Year 12 Student Resource Sheet</title>
+  <link rel="stylesheet" href="style_1.css" />
+  <link href="https://fonts.googleapis.com/css2?family=ADLaM+Display&display=swap" rel="stylesheet">
 </head>
 <body>
-  <audio autoplay loop>
-    <source src="WhatsApp Audio 2025-06-06 at 5.44.06 PM.mp4" type="audio/wav" />
-  </audio>
-    <div class="navbar">
-        <button type="mewotee_1" onclick="About_Us()">About Us  Page</button>
-        <button type="mewotee_1" onclick="Year_12_Resource_Website()">Year 12 Resource Website</button>
-        <button type="mewotee_!" onclick="How_to_use_the_Website()">How to use the Website</button>
-    </div>
-    <br><br>
-    <div class="content">
-      <h2>Where you can learn about everything in</h2>
-      <h2>English, Physics and Advanced Maths.</h2>
-      <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    </div>
+<div id="preloader"></div>
+<audio autoplay loop>
+  <source src="WhatsApp Audio 2025-06-06 at 5.44.06 PM.mp4" type="audio/wav" />
+</audio>
+<div class="navbar">
+  <button type="mewotee_1" onclick="About_Us()">About Us  Page</button>
+  <button type="mewotee_1" onclick="Year_12_Resource_Website()">Year 12 Resource Website</button>
+  <button type="mewotee_!" onclick="How_to_use_the_Website()">How to use the Website</button>
+</div>
+<br><br>
+<div class="content">
+  <h2>Where you can learn about everything in</h2>
+  <h2>English, Physics and Advanced Maths.</h2>
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</div>
 
-   <nav class="cavbar">
-      <button type="mewotee" onclick="myPhysics()">Physics</button>
-      <button type="mewotee" onclick="myMaths()">Advanced Maths</button>
-      <button type="mewotee" onclick="myEnglish()">English</button>
-   </nav>
+<nav class="cavbar">
+  <button type="mewotee" onclick="myPhysics()">Physics</button>
+  <button type="mewotee" onclick="myMaths()">Advanced Maths</button>
+  <button type="mewotee" onclick="myEnglish()">English</button>
+</nav>
 
 </body>
 </html>
