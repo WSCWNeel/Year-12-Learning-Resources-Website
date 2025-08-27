@@ -21,7 +21,7 @@ body {
   width: 100%; /* Full width */
   background-color: #5b5f97; /* Background color */
     border-radius: 5px; /* Rounded corners */
-  border-bottom: #DBD4D3 solid 5px; /* Bottom border */
+  border-bottom: #DED8D7 solid 5px; /* Bottom border */
 }
 
 .navbar button {
@@ -101,17 +101,17 @@ body {
 
 h2 {
   text-shadow: 0.5px 1.5px 2.5px #2B2D42; /* Adds a shadow effect */
-  color: #DBD4D3
+  color: #DED8D7
 }
 
 h1 {
   text-shadow: 0.5px 1.5px 2.5px #2B2D42; /* Adds a shadow effect */
-  color: #DBD4D3
+  color: #DED8D7
 }
 
 h3 {
   text-shadow: 0.5px 1.5px 2.5px #2B2D42; /* Adds a shadow effect */
-  color: #DBD4D3
+  color: #DED8D7
 }
 
 head  {
@@ -121,9 +121,9 @@ head  {
 .content {
   max-width: 1250px;
   margin: auto; /* Center the content */
-  background: linear-gradient(#ffc1453d); /* Semi-transparent background */
+  background: linear-gradient(#6a7b7693); /* Semi-transparent background */
   padding: 10px; /* Padding around the content */
-  color : #dbd4d3; /* Text color */
+  color : #DED8D7; /* Text color */
 }
 
 #preloader {
@@ -132,7 +132,7 @@ head  {
   left: 0;
   width: 100%;
   height: 100%; /* Full screen */
-  background-color: #fff; /* Or any background color */
+  background-color: #ffffff; /* Or any background color */
   background-image: url('Interesting\ glitchy.gif'); /* Path to your loading image */
   background-repeat: no-repeat; /* Prevents tiling */
   background-position: center; /* Centers the image */
