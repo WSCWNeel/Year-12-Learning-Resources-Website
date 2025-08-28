@@ -23,3 +23,6 @@ window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-W
 function myEnglish() {
 window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/english.html");
 }
+function myWide_Reading() {
+window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/wide_reading.html");
+}
