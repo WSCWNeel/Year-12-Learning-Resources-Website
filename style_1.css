@@ -124,7 +124,19 @@ head  {
   background: linear-gradient(#6a7b7693); /* Semi-transparent background */
   padding: 10px; /* Padding around the content */
   color : #DED8D7; /* Text color */
+  font-family: 'Sour Gummy'; /* Add this line */
+/* <weight>: Use a value from 100 to 900 */
+/* <uniquifier>: Use a unique and descriptive class name */
+
+.sour-gummy-<uniquifier> {
+  font-family: "Sour Gummy", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
 }
+
 
 #preloader {
   position: fixed;
