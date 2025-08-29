@@ -29,3 +29,9 @@ window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-W
 function myFilm_Study() {
 window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/film_study.html");
 }
+function my2.4_Writing_Portofolio() {
+window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/2.4_writing_portfolia.html");
+}
+function my2.9_Personal_Responses() {
+window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/2.9_personal_responses.html");
+}
