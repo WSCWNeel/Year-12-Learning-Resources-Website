@@ -27,5 +27,5 @@ function myWide_Reading() {
 window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/wide_reading.html");
 }
 function myFilm_Study() {
-window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/Film_Study.html");
+window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/film_study.html");
 }
