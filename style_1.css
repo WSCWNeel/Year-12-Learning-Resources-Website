@@ -145,7 +145,7 @@ head  {
   width: 100%;
   height: 100%; /* Full screen */
   background-color: #ffffff; /* Or any background color */
-  background-image: url('Interesting\ glitchy.gif'); /* Path to your loading image */
+  background-image: url('Interesting glitchy.gif'); /* Path to your loading image */
   background-repeat: no-repeat; /* Prevents tiling */
   background-position: center; /* Centers the image */
   z-index: 10000; /* High z-index to overlay other content */
