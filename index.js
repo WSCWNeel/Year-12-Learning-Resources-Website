@@ -58,7 +58,7 @@ function myCalculus() {
 window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/calculus.html");
 }
 function mySimultaneous_Equations() {
-window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/silmutaneous_equations.html");
+window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/simultaneous_equations.html");
 }
 function myAdvanced_Maths_Pre_Exam_Revision() {
 window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/advanced_maths_pre_exam_revision.html");
