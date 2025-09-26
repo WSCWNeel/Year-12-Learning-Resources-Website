@@ -64,8 +64,8 @@ function myAdvanced_Maths_Pre_Exam_Revision() {
 window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/advanced_maths_pre_exam_revision.html");
 }
 /* Physics Topics*/
-function myMechanisms() {
-window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/mechanisms.html");
+function myMechanics() {
+window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/mechanics.html");
 }
 function myPhysics_in_Context() {
 window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/physics_in_context.html");
