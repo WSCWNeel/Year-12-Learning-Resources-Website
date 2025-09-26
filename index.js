@@ -32,8 +32,8 @@ window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-W
 function myWide_Reading() {
 window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/wide_reading.html");
 }
-function myWriting_Portofolio() {
-window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/writing_portfolia.html");
+function myWriting_Portfolio() {
+window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/writing_portfolio.html");
 }
 function myPersonal_Responses() {
 window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/personal_responses.html");
