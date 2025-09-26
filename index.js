@@ -32,13 +32,13 @@ window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-W
 function myWide_Reading() {
 window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/wide_reading.html");
 }
-function my2_4_Writing_Portofolio() {
+function my_Writing_Portofolio() {
 window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/writing_portfolia.html");
 }
-function my2_9_Personal_Responses() {
+function my_Personal_Responses() {
 window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/personal_responses.html");
 }
-function my2_8_Research_Study() {
+function my_Research_Study() {
 window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/research_study.html");
 }
 function myEnglish_Pre_Exam_Revision() {
