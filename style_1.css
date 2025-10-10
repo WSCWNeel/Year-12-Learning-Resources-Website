@@ -149,39 +149,16 @@ head  {
   z-index: 10000; /* High z-index to overlay other content */
 }
 
-.bx {
-  border: 2px solid #5b5f97; /* Border color and thickness */
-  border-radius: 10px; /* Rounded corners */
-  padding: 20px; /* Padding inside the box */
-  margin: 20px 0; /* Margin above and below the box */
-  background-color: #f1f1f1; /* Light background color */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
-}
-
 .dropdown {
   position: relative;
   display: inline-block;
-  margin-right: 50px; /* Space between buttons */
-  z-index: 1; /* Ensure dropdown is above other elements */
 }
 
-.dropdown a {
-  background-color: #5b5f97; /* Button background color */
-  color: #ffc145; /* Button text color */
-  font-family: 'ADLaM Display',Verdana, Geneva, Tahoma, sans-serif; /* Font family */
-  font-size: 17.5px;
-  font-weight: bold; /* Bold text */
-  text-align: center; /* Center text */
-  text-decoration: none; /* Remove underline from links */
-  padding: 10px 15px; /* Padding inside the button */
-  border: 2.5px solid #5b5f97; /* Border color and thickness */
-  border-radius: 5px; /* Rounded corners */
-  cursor: pointer; /* Pointer cursor on hover */
-  display: inline-block; /* Ensures buttons are inline */
-}
-
-.dropdown a:hover {
-  background-color: #b9cefb;
-  color:#9FBBF9;
-  border: 2.5px solid #9FBBF9; /* Border color and thickness */
+/.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
 }
